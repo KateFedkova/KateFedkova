@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kate</h1>
-- 🌱 I’m currently learning ***Python***
+- 🌱 I’m currently learning Python
 
 - 👨‍💻 All of my projects are available at [https://github.com/KateFedkova?tab=repositories](https://github.com/KateFedkova?tab=repositories)
 
