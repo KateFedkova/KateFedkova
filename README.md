@@ -13,8 +13,6 @@ In my projects, I aim to work in a way similar to professional development teams
 - Breaking features into **clear, well-scoped tasks**
 - Prioritizing delivering **working features first**, then improving and refining the code incrementally.
 
----
-
 ### 🏗️ Engineering Values
 
 I place a strong emphasis on:
@@ -26,14 +24,10 @@ I place a strong emphasis on:
 
 I actively seek feedback, review my own decisions, and refactor code as my understanding of the system improves.
 
----
-
 ### 🤝 Team & Growth Mindset
 
 - I enjoy working in teams where ideas are shared openly, feedback is constructive, and growth is continuous.  
 - Clear communication, mutual respect, and a willingness to improve are things I actively bring into any project.
-
----
 
 ## My stack
 <div align="center">
